@@ -1,2 +1,3 @@
 print("Addition : ",2+3)
 print("Subraction : ",2-3)
+print("multiplication : ",2*3)
